@@ -33,6 +33,7 @@ h1
 
 
 @media all and (max-width:414px){
-	#demo-container{display:grid;}
+	#demo-container {display:grid;}
 	#input {width: 100%;}
+	#bode {width: 100%;}
 }
